@@ -1,0 +1,35 @@
+.pay {
+  margin-left: 10px;
+  width: 1350px;
+  height: 100vh;
+  background-color: rgb(250, 19, 19);
+  border-radius: 5px;
+}
+.paySubmitted {
+  color: black;
+  position: relative;
+  top: 300px;
+  width: 100px;
+  height: 50px;
+  background-color: red;
+  border: 1px solid red;
+  border-radius: 5px;
+  box-shadow: 3px 3px 7px rgb(250, 169, 20);
+}
+.rezolpay {
+  color: white;
+  position: relative;
+  top: 170px;
+  width: 180px;
+  height: 40px;
+  background-color: black;
+  border: 1px solid red;
+  border-radius: 5px;
+  box-shadow: 3px 3px 7px rgb(250, 169, 20);
+  outline: none;
+}
+.payHead {
+  position: relative;
+  color: black;
+  top: 150px;
+}

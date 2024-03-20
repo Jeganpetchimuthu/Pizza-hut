@@ -1,0 +1,120 @@
+.LoginWrop-container {
+  background-color: white;
+  height: 100vh;
+}
+.login-cantaine-wrap {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  margin-top: -250px;
+  background-color: white;
+  margin-left: 30px;
+  width: 50%;
+  border-radius: 5px;
+  border: 1px solid white;
+}
+.button {
+  padding: 5px;
+  margin-left: 20%;
+  margin-right: 30%;
+  margin-top: -10%;
+  width: 60%;
+  height: 20%;
+  border-radius: 5px;
+  border: 1px solid green;
+  color: green;
+}
+.user {
+  padding: 5px;
+  margin-left: 20%;
+  margin-right: 30%;
+  margin-top: 5%;
+  width: 60%;
+  height: 20%;
+  border-radius: 5px;
+  border: 1px solid green;
+  color: green;
+  margin-bottom: 10px;
+}
+.para {
+  color: brown;
+}
+.header-page {
+  color: brown;
+}
+.use {
+  padding: 5px;
+  margin-left: -25%;
+  margin-right: 30%;
+  margin-top: 15%;
+  width: 60%;
+  height: 20%;
+  border-radius: 5px;
+  border: 1px solid green;
+  color: green;
+}
+.remember {
+  padding: 5px;
+  margin-left: 10%;
+  margin-right: 30%;
+  margin-top: -11%;
+  width: 60%;
+  height: 20%;
+  border-radius: 5px;
+  border: 1px solid rgb(111, 111, 252);
+  color: rgb(247, 250, 247);
+}
+.forgot {
+  margin-left: 30%;
+  color: rgb(12, 16, 252);
+}
+.LogPassword {
+  color: white;
+  border: 1px solid gray;
+  width: 350px;
+  height: 40px;
+  outline: none;
+  border-radius: 5px;
+  background-color: white;
+}
+.LogPassword:hover {
+  box-shadow: 3px 3px 7px rgb(250, 169, 20);
+}
+.logEmail {
+  color: white;
+  border: 1px solid gray;
+  width: 350px;
+  height: 40px;
+  outline: none;
+  border-radius: 5px;
+  background-color: white;
+}
+.logEmail:hover {
+  box-shadow: 3px 3px 7px rgb(250, 169, 20);
+}
+.logbutton {
+  color: black;
+  border: 1px solid gray;
+  width: 350px;
+  height: 40px;
+  outline: none;
+  border-radius: 5px;
+  background-color: red;
+  font-weight: 500px;
+  font-size: larger;
+}
+.logbutton:hover {
+  color: black;
+  background: rgb(250, 237, 237);
+  box-shadow: 3px 3px 7px rgb(250, 169, 20);
+}
+.pizzaLogin {
+  position: relative;
+  top: 150px;
+  left: 300px;
+  width: 500px;
+  height: 460px;
+  background-color: white;
+  border: none;
+  border-radius: 15px;
+}
